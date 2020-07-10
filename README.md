@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello everyone 👋✨
+
+I'm Christian but everyone call me Kenzo, which its my second name.
+Currently my role is Data Analyst 👨‍💻 and i like everything about Big Data, Technologies, etc.
+
+
+- 🔭 I’m currently working on Data with SQL and ETL systems like Hadoop, DataStage IBM.
+- 🌱 I’m currently learning Python, AWS and Azure, Cloudera Certification like CCA Data Analyst. 
+
+- 🤔 I’m looking for help with English Language to improve and everything about Data Engineer.
+- 💬 Ask me about Technologies, Anime, Games.
 
 <!--
 **kenzoseki/kenzoseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
