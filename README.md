@@ -5,8 +5,8 @@ I'm *Christian* but everyone call me *Kenzo*, which its my middle name.
 Currently my role is Data Analyst 👨‍💻 and i like everything about Big Data, Technologies, etc.
 
 * 🔭 I’m currently working on Data with Azure, SQL, Python and sometimes ETL.
-- 🌱 I’m currently learning Python, AWS and Azure, Cloudera Certification like CCA Data Analyst.
-- 🤔 I’m looking for help with English Language to improve and everything about Data Engineer.
+- 🌱 I’m currently learning Python, AWS and Azure.
+- 🤔 I’m looking for help with English Language to improve and also everything about Data Engineer.
 - 💬 You can ask me about Technologies, Anime, Games.
 
 
