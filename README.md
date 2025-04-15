@@ -1,13 +1,11 @@
 # Kenzo Seki
 ## _*Hello everyone*_ 👋
 
-I'm *Christian* but everyone call me *Kenzo*, which its my middle name.
-Currently my role is Data Analyst 👨‍💻 and i like everything about Big Data, Technologies, etc.
+You can call me *Kenzo*.
+Currently at role ***Analytics Engineer | Data Engineer*** 👨‍💻.
 
-* 🔭 I’m currently working on Data with Azure, SQL, Python and sometimes ETL.
-- 🌱 I’m currently learning Python, AWS and Azure.
-- 🤔 I’m looking for help with English Language to improve and also everything about Data Engineer.
-- 💬 You can ask me about Technologies, Anime, Games.
+* 🔭 I’m currently working on Data with Databricks, Python, Microsoft Azure and SQL.
+- 🌱 Currently improving Python, Databricks and Azure.
 
 
 - 📫 How to reach me: 
